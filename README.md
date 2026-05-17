@@ -11,7 +11,8 @@ Nội dung bao gồm:
 
 ## 📂 Cấu trúc thư mục
 - **sapxep/**: Chứa các chương trình C++ minh họa các thuật toán sắp xếp (Selection Sort, Bubble Sort, Merge Sort, …).  
-- **test/**: Các file kiểm thử, ví dụ chạy chương trình để minh họa kết quả.  
+- **test/**: Các file kiểm thử, ví dụ chạy chương trình để minh họa kết quả.
+- **Bai_tap.pdf**: Bài tập các chương (chỉ chứa đề bài).  
 - **De cuong PTTKTT.docx**: Đề cương chi tiết môn học, bao gồm nội dung lý thuyết, ý tưởng triển khai và yêu cầu thực hành.  
 
 ---
